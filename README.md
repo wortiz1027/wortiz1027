@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Wilman Ortiz</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/@willdroid" target="blank"><img src="https://img.shields.io/twitter/follow/@willdroid?logo=twitter&style=for-the-badge" alt="@willdroid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/willdroid" target="blank"><img src="https://img.shields.io/twitter/follow/@willdroid?logo=twitter&style=for-the-badge" alt="@willdroid" /></a> </p>
 
 - 🔭 I’m currently working on [MercadoLibre](https://www.mercadolibre.com.co/)
 
 - 🌱 I’m currently learning **Machine Learning, Kubernetes, Aws, Docker**
 
 - 📝 I regularly write articles on [https://willmanortiz.wordpress.com/](https://willmanortiz.wordpress.com/)
-
-- 📫 How to reach me **willman.ortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
